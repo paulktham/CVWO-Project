@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/paulktham/CVWO-Project/backend/internal/router"
+	"github.com/paulktham/CVWO-Project/tree/main/BACK1/internal/router"
 )
 
 func main() {
