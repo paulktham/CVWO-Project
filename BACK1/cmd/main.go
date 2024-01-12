@@ -1,5 +1,8 @@
 package main
 
+// password: password1
+// user: admin
+
 import (
 	"net/http"
 
